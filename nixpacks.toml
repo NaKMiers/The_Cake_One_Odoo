@@ -1,0 +1,21 @@
+[phases.setup]
+nixPkgs = [
+  "python311Full",
+  "pkg-config",
+  "gcc",
+  "gnumake",
+  "libxml2",
+  "libxslt",
+  "postgresql",
+  "libjpeg",
+  "zlib",
+  "libffi",
+  "openssl",
+  "freetype",
+  "openblas",
+  "cairo",
+  "pango",
+  "glib",
+  "libldap",
+  "libsasl",
+]
