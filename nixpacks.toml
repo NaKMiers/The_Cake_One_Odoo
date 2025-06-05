@@ -16,6 +16,6 @@ nixPkgs = [
   "cairo",
   "pango",
   "glib",
-  "openldap",   
-  "cyrus_sasl",
+  "openldap",
+  "cyrus_sasl"
 ]
